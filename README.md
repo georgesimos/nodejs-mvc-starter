@@ -49,7 +49,7 @@ $ npm run dev # with nodemon live update
 
 ## Plugins
 
-nodejs-starter is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+nodejs-mvc-starter is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
 
 ## Server
 
