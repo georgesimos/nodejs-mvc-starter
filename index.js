@@ -3,7 +3,7 @@
  * Author:  George Simos - georgesimos.com
  *
  * License: Copyright (c) 2019 George Simos
- * @link https://github.com/georgesimos/nodejs-starter
+ * @link https://github.com/georgesimos/nodejs-mvc-starter
  *
  */
 
