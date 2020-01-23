@@ -47,6 +47,27 @@ $ npm start
 $ npm run dev # with nodemon live update
 ```
 
+## Application Structure
+
+```
+app
+├── src
+│   ├── config
+│   │   └── auth.js
+│   │   └── mongoose.js
+│   ├── controllers
+│   │   └── auth.js
+│   │   └── users.js
+│   ├── models
+│   │   └── Users
+│   ├── routes
+│   │   └── api
+│   │    │   └── auth.js
+│   │    │   └── users.js
+│   │    └── index.js      
+└── index.js
+```
+
 ## Plugins
 
 nodejs-mvc-starter is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
